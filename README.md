@@ -2,7 +2,7 @@
   Hi, I'm Karla👋
 </h1>
 
-### :woman_technologist: &nbsp;About Me :
+### 👩‍💻 &nbsp;About Me :
 
 A Software Engineer interested in Web Development and Design.
 
@@ -12,7 +12,7 @@ A Software Engineer interested in Web Development and Design.
 
 ---
 
-### 🛠️: &nbsp;Languages and Tools :
+### 🛠️ &nbsp;Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@ A Software Engineer interested in Web Development and Design.
 
 ---
 
-### 🔥: &nbsp;My Stats :
+### 🔥 &nbsp;My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlaSmuk&theme=dark&background=000000)](https://git.io/streak-stats)
 
