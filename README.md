@@ -34,7 +34,8 @@ A Software Engineer interested in Web Development and Design.
 
 ### 🔥&nbsp;My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlaSmuk&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaSmuk&layout=compact&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlaSmuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlaSmuk&theme=dark&background=000000)
+
 
