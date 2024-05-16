@@ -7,7 +7,7 @@
 A Software Engineer interested in Web Development and Design.
 
 - 👀 I'm student at FER, Zagreb.
-- 🌱 I’m currently working on my Final BCs Thesis (Web Application for Veterinary Clinics - VetConnect)
+- 🌱 I’m currently working on my Final BSc Thesis (Web Application for Veterinary Clinics - VetConnect)
 - 📫 How to reach me: karla.smuk@gmail.com
 
 ---
