@@ -2,17 +2,17 @@
   Hi, I'm Karla👋
 </h1>
 
-### 👩‍💻 &nbsp;About Me :
+### 👩‍💻&nbsp;About Me :
 
 A Software Engineer interested in Web Development and Design.
 
 - 👀 I'm student at FER, Zagreb.
-- 🔭 I’m currently working on my Final BCs Thesis (Web Application for Veterinary Clinics - VetConnect)
+- 🌱 I’m currently working on my Final BCs Thesis (Web Application for Veterinary Clinics - VetConnect)
 - 📫 How to reach me: karla.smuk@gmail.com
 
 ---
 
-### 🛠️ &nbsp;Languages and Tools :
+### 🛠️&nbsp;Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@ A Software Engineer interested in Web Development and Design.
 
 ---
 
-### 🔥 &nbsp;My Stats :
+### 🔥&nbsp;My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlaSmuk&theme=dark&background=000000)](https://git.io/streak-stats)
 
