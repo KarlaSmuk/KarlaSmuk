@@ -4,7 +4,7 @@
 
 ### 👩‍💻&nbsp;About Me :
 
-A Software Engineer interested in Web Development and Design.
+A Software Engineer interested in Web Development and Databases.
 
 - 👀 I'm student at FER, Zagreb.
 - 📫 How to reach me: karla.smuk@gmail.com
